@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT7931NQRR_XA96AE_00_FT_EWT", "MT7931NQRR_XA96AE_00_FT_EWT.vcproj", "{E8781A2F-36A6-490E-889F-159DE03D9EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8781A2F-36A6-490E-889F-159DE03D9EB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8781A2F-36A6-490E-889F-159DE03D9EB8}.Debug|Win32.Build.0 = Debug|Win32
+		{E8781A2F-36A6-490E-889F-159DE03D9EB8}.Release|Win32.ActiveCfg = Release|Win32
+		{E8781A2F-36A6-490E-889F-159DE03D9EB8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

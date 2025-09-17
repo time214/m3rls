@@ -1,0 +1,15 @@
+MT7931NQRR_XA96AC_00_FT_EWT.pgs
+MT7931NQRR_XA96AC_00_FT_EWT.LDF
+MT7931NQRR_XA96AE_00_FT_EWT.LDF
+MT7931NQRR_XA96AE_00_FT_EWT.dll
+source\MT7930NQRR_XA96AB_00_FT_EWT.vcxproj.filters
+source\MT7931NQRR_XA96AE_00_FT_EWT.cpp
+source\MT7931NQRR_XA96AE_00_FT_EWT.dsp
+source\MT7931NQRR_XA96AE_00_FT_EWT.dsw
+source\MT7931NQRR_XA96AE_00_FT_EWT.sln
+source\MT7931NQRR_XA96AE_00_FT_EWT.vcproj
+source\MT7931NQRR_XA96AE_00_FT_EWT.vcxproj
+source\StdAfx.cpp
+source\StdAfx.h
+source\test-accotest-bak.cpp
+source\test.cpp
