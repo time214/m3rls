@@ -1,0 +1,4 @@
+2026/5/11
+
+OS FV -1V clamp1V/1mA--->FI -1mA  clamp 1mA/2V
+Add 2nd IQ/ISD Bias/VIN 
